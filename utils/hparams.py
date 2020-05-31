@@ -28,7 +28,7 @@ class Hparams(object):
         self.n_maxdilation = 5
         self.n_center = 1
         self.n_input_channels = 117+15
-        self.n_residual_channels = 32
+        self.n_residual_channels = 64
         self.n_skip_channels = 512
         self.n_kernel_size = 2
         self.n_output_channels = self.n_center * (2 * self.n_input_channels + 1) + 2
