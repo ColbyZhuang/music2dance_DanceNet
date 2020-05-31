@@ -31,10 +31,7 @@ we propose a novel framework, DanceNet, to generate
     │   ├── osutils.py              
 
 
-## Testing example 
-```bash
-bash demo.sh
-```
+
 
 ## visualization 
 We test the code in windows.     
